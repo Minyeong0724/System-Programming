@@ -1,9 +1,11 @@
 # System-Programming Assignment 2
 
-Project part 1
+* Project part 1
 
 
-Project part 2
+* Project part 2
+  - 설명 및 컴파일/실행방법 간단하게 쓰면 될 듯
+  - +) 실행 영상 첨부
 
 
 * Team member
